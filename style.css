@@ -1,0 +1,258 @@
+body{
+     
+    margin: 0;
+    
+    
+    text-align: center;
+} 
+
+h1{
+
+    
+
+    margin: 0 auto 0 auto;
+   font-size: 3.625rem;
+    margin-top: 0;
+    font-family: 'Lobster', cursive;
+font-family: 'Orbitron', sans-serif;
+}
+
+.sub{
+      color: black;
+    font-size: 2.1rem;
+    font-family: 'Abril Fatface', cursive;
+font-weight: normal;
+line-height: 2;
+}
+
+
+.top{
+
+    
+    
+    background-color: #7ebdb4;
+    position: relative;
+    padding-top: 100px;
+    
+}
+
+.top-cloud{
+
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud{
+
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+h3{
+
+    color:  #11999E;
+}
+
+
+
+.skill-row{
+
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill{
+
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 500%;
+    
+}
+
+.internet{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 50%;
+}
+
+h2{
+
+    padding-top: 10px;
+}
+
+.intro{
+
+    width: 30%;
+    margin: auto;
+}
+
+hr{
+
+    border: dotted black 4px;
+    border-bottom: none;
+    margin: 100px auto;
+    width: 4%;
+}
+
+    
+    
+
+
+    
+
+
+.dp{
+
+    margin-top: 40px;
+    border-radius: 50%;
+}
+
+.bottom-container{
+    
+   
+    padding-top: 20px;
+    background-color: #30475e; 
+    padding-bottom: 90px;
+    position: relative;
+    
+    margin-bottom: 0px 0px 0px 0px;
+}
+
+.contact-msg{
+
+    width: 30%
+    margin: 40px auto 40px;
+}
+
+
+    a{
+
+        color:yellowgreen;
+        margin: 10px 20px ;
+        text-decoration: none;
+    }
+
+    a:hover{
+
+        color: #EAF6F6;
+    }
+
+    .copyright{
+
+        color: #EAF6F6;
+        font-size: 0.76rem;
+        padding: 20px 0;
+    }
+
+    
+
+
+
+    
+    .btn {
+
+            margin-bottom: 40px;
+        -moz-box-shadow:inset 0px 10px 14px -7px #276873;
+        -webkit-box-shadow:inset 0px 10px 14px -7px #276873;
+        box-shadow:inset 0px 10px 14px -7px #276873;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #599bb3), color-stop(1, #408c99) );
+        background:-moz-linear-gradient( center top, #599bb3 5%, #408c99 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#599bb3', endColorstr='#408c99');
+        background-color:#599bb3;
+        -webkit-border-top-left-radius:8px;
+        -moz-border-radius-topleft:8px;
+        border-top-left-radius:8px;
+        -webkit-border-top-right-radius:8px;
+        -moz-border-radius-topright:8px;
+        border-top-right-radius:8px;
+        -webkit-border-bottom-right-radius:8px;
+        -moz-border-radius-bottomright:8px;
+        border-bottom-right-radius:8px;
+        -webkit-border-bottom-left-radius:8px;
+        -moz-border-radius-bottomleft:8px;
+        border-bottom-left-radius:8px;
+    text-indent:0;
+        display:inline-block;
+        color:#ffffff;
+        font-family:arial;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+    height:50px;
+        line-height:50px;
+    width:140px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:0px 1px 0px #3d768a;
+    }.btn:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #408c99), color-stop(1, #599bb3) );
+        background:-moz-linear-gradient( center top, #408c99 5%, #599bb3 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#408c99', endColorstr='#599bb3');
+        background-color:#408c99;
+    }.btn:active {
+        position:relative;
+        top:1px;
+    }
+
+    .work-container{
+        padding-top: 10px;
+        background-color:#204051;
+        text-align: center;
+       
+    }
+    .work1{
+          
+        
+        text-align: left;
+        margin: 20px 60px ;
+        left: 40px;
+        padding-bottom: 20px;
+    }
+    .work2{
+        
+        
+        text-align: left;
+        position: relative;
+        left: 490px;
+        bottom: 346px;
+    }
+
+    .work3{
+         
+       
+        position: relative;
+        bottom: 650px;
+        left: 422px;
+    }
+
+    .work4{
+          
+        
+        position: relative;
+        bottom: 625px;
+        right: 50px;
+    }
+
+    .contact-me{
+
+        position: relative;
+        bottom: 570px;
+       
+           margin-bottom:-570px;
+    }
+
+    .hii{
+
+
+        position: relative;
+        bottom: 590px;
+    }
+
+   
+   
